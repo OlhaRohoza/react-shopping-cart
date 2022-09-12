@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Book",
+        "price": 10.99,
+        "imgUrl": "/imgs/sincerely-media-nGrfKmtwv24-unsplash.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Computer",
+        "price": 1199,
+        "imgUrl": "/imgs/clement-helardot-95YRwf6CNw8-unsplash.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Banana",
+        "price": 1.05,
+        "imgUrl": "/imgs/giorgio-trovato-fczCr7MdE7U-unsplash.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Car",
+        "price": 14000,
+        "imgUrl": "/imgs/joey-banks-YApiWyp0lqo-unsplash.jpg"
+    }
+]
